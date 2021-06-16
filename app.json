@@ -1,0 +1,12 @@
+{
+  "name": "commscheck",
+  "displayName": "commscheck",
+  "expo": {
+    "name": "commscheck",
+    "slug": "commscheck",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
